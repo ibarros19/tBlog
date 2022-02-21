@@ -28,6 +28,9 @@
 [Main Menu](#home)
 
 My task in this assignment was to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
+<br>
+<br>
+You can view all posts without registering but to create a post, and to comment, you will need to be registered and logged in. 
 
 
 <a name='usage'></a>
@@ -83,7 +86,7 @@ My task in this assignment was to build a CMS-style blog site similar to a Wordp
 
 GitHub Repository-> <a href="https://ibarros19.github.io/tBlog/" target="_blank">LINK</a> 
 <br>
-Live view page-> <a href="https://" target="_blank">LINK</a> 
+Live view page on Heroku-> <a href="https://blogivi.herokuapp.com/" target="_blank">LINK</a> 
 <a name='questions'></a>
 
 ## Questions
