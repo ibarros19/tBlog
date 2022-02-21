@@ -1,0 +1,41 @@
+h1 {
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 1.25rem;
+}
+
+.topbar-link {
+    color: white;
+    display: inline-block;
+    padding: 0 6px;
+    text-decoration: none;
+}
+.sitename {
+    color: white;
+    text-decoration: none;
+}
+.sitename:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.topbar-link:hover {
+    color: white;
+    text-decoration: none;
+    opacity: .5;
+}
+
+.label-width {
+    width: 86px;
+}
+
+.card-login {
+    max-width: 340px;
+}

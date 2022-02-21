@@ -1,0 +1,23 @@
+<div class="post card mt-4">
+  <div class="card-header">
+    <h2>Edit Post</h2>
+  </div>
+  <form id="edit-post-form" class="card-body">
+    <input type="hidden" id="post-id" value="{{post.id}}" />
+
+    <div class="mb-3">
+      <label class="label-width form-label" for="post-title">Title</label>
+      <input id="post-title" class="form-control w-auto d-inline-block" type="text" autocomplete="off" value="{{post.title}}">
+    </div>
+
+    <div class="mb-3">
+      <label class="label-width form-label" for="post-body" style="vertical-align: top;">Content</label>
+      <textarea id="post-body" class="form-control w-auto d-inline-block">{{post.body}}</textarea>
+    </div>
+
+    <span class="d-inline-block label-width"></span>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <button type="button" class="btn btn-danger" id="delete-btn" class="btn">Delete</button>
+  </form>
+</div>

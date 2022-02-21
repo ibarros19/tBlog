@@ -1,0 +1,22 @@
+<div class="comment card mt-4">
+  <div class="card-header">
+    <h2>Edit Comment</h2>
+  </div>
+  <form id="edit-comment-form" class="card-body">
+    <input type="hidden" id="comment-id" value="{{comment.id}}" />
+    <input type="hidden" id="comment-post-id" value="{{comment.postId}}" />
+
+    <div class="mb-3">
+      <label class="label-width form-label" for="comment-body" style="vertical-align: top;">Content</label>
+      <textarea id="comment-body" class="form-control w-auto d-inline-block">{{comment.body}}</textarea>
+    </div>
+
+    <span class="d-inline-block label-width"></span>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    <button type="button" class="btn btn-danger" id="delete-comment-btn" class="btn">Delete</button>
+    <footer>
+      
+    </footer>
+  </form>
+</div>

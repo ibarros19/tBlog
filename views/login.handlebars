@@ -1,0 +1,22 @@
+<div class="card mx-auto mt-4 card-login">
+  <div class="card-header">
+    <h2>Login</h2>
+  </div>
+  <form id="login-form" class="card-body">
+    <div class="mb-3">
+      <label class="label-width" for="username-input-login">Username</label>
+      <input class="form-control w-auto d-inline-block" type="text" id="username-input-login">
+    </div>
+    <div class="mb-4">
+      <label class="label-width" for="password-input-login" class="form-label">Password</label>
+      <input class="form-control w-auto d-inline-block" type="password" id="password-input-login">
+      <br>
+      <span class="d-inline-block label-width"></span>
+      <small id="error-message" class="text-danger"></small>
+    </div>
+    <button type="submit" id="login-btn" class="btn btn-primary me-3">Login!</button>
+    <a class="btn btn-link" href="/signup">Sign up instead</a>
+  </form>
+</div>
+
+<script src="/javascript/login.js"></script>

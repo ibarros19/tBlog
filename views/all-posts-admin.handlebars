@@ -1,0 +1,24 @@
+<table class="table mt-3">
+  <thead>
+    <tr>
+      <th>Post Title</th>
+      <th>Published date</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each posts}}
+      <tr>
+        <td>
+          {{title}}
+        </td>
+        <td>
+          {{format_date createdAt}}
+        </td>
+        <td>
+          <a href="/dashboard/edit/{{id}}">edit</a>
+        </td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>
