@@ -67,6 +67,12 @@ My task in this assignment was to build a CMS-style blog site similar to a Wordp
 
   </tr>
 
+  <tr>
+    <td><img src="img/screenshot9.png" target="blank" width=300px></td>
+    <td><img src="img/screenshot10.png" target="blank" width=300px></td>
+
+  </tr>
+
   </table>
  
 <br>
