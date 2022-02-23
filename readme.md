@@ -38,7 +38,7 @@ You can view all posts without registering but to create a post, and to comment,
 
 [Main Menu](#home)
   
--Create the tech_blog_db schema using workbench (or your preferred method to perform this action). The schema file is available in the "db" folder;<br>
+-Create the tech_blog_db database using workbench (or your preferred method to perform this action). The schema file is available in the "db" folder;<br>
 -Use the command line: "npm install" to install the dependencies;<br>
 -To run the application, please run the command line: "npm start";<br>
 -On your web browser, please visit your localhost at: "http://localhost:3001" and, if needed, hit enter. <br>
