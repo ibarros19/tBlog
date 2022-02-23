@@ -8,7 +8,7 @@
   
   <a name='tech'></a>
 ## Technologies
-  ![js](https://img.shields.io/badge/JS-JavaScript-red) ![NODE](https://img.shields.io/badge/npm-Node.js-lightgrey) ![HTML](https://img.shields.io/badge/%3C%3E-HTML-brightgreen) ![BOOTSTRAP](https://img.shields.io/badge/%E2%99%A1-Bootstrap-blue) ![MYSQL](https://img.shields.io/badge/%F0%9F%90%AC-MySQL-ff69b4) ![HANDLEBARS](https://img.shields.io/badge/%7B%7B%20%7D%7D-Handlebars-black) ![EXPRESS](https://img.shields.io/badge/-Express-9cf) ![SEQUELIZE](https://img.shields.io/badge/-Sequelize-9cf)
+  ![js](https://img.shields.io/badge/JS-JavaScript-red) ![NODE](https://img.shields.io/badge/npm-Node.js-lightgrey) ![HTML](https://img.shields.io/badge/%3C%3E-HTML-brightgreen) ![CSS](https://img.shields.io/badge/.%7B%7D-CSS-yellowgreen)![BOOTSTRAP](https://img.shields.io/badge/%E2%99%A1-Bootstrap-blue) ![MYSQL](https://img.shields.io/badge/%F0%9F%90%AC-MySQL-ff69b4) ![HANDLEBARS](https://img.shields.io/badge/%7B%7B%20%7D%7D-Handlebars-black) ![EXPRESS](https://img.shields.io/badge/-Express-9cf) ![SEQUELIZE](https://img.shields.io/badge/-Sequelize-9cf)
   <br>
   
   
